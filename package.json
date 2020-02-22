@@ -1,0 +1,15 @@
+{
+  "name": "countdown",
+  "version": "0.0.1",
+  "description": "倒计时",
+  "main": "index.js",
+  "scripts": {
+    "publ": "npm publish",
+    "test": "nodemon test/index.js"
+  },
+  "author": "langfutao",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
